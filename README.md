@@ -34,3 +34,9 @@ libname mylib clear;  /*  */
     - 原始数据文件：文件文件、ASCII文件、顺序文件或者平面文件
 - 将其他软件的数据文件转换成SAS数据集
 - 直接读取其他软件的数据文件
+
+
+#### license
+https://ithelp.brown.edu/kb/articles/how-to-update-sas-9-4-license
+
+https://www.brown.edu/information-technology/software/catalog/sas-1
